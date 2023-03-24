@@ -1,7 +1,7 @@
 # Ejercicios_Tema11_TecnicasDeProgramacion
 
 ## Nota
-Mi respositorio es:
+Mi respositorio es: https://github.com/JorgeCadrecha/Ejercicios_Tema11_TecnicasDeProgramacion.git
 
 ### Enunciado
 Debe escribir:
